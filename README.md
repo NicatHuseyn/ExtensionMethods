@@ -116,5 +116,4 @@
     </p>
     <div style="margin: 10px 0">
       <img style="width: 600px" src="https://github.com/user-attachments/assets/97854eac-8810-4ffb-a976-69accd46a96f" alt="" />
-      
-    </div>
+  </div>
